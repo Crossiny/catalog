@@ -1,12 +1,8 @@
-sunshine:
-  image:
-    repository: ghcr.io/games-on-whales/sunshine
-    tag: 1.0.0
-    pullPolicy: IfNotPresent
-  user: admin
-  password: admin
-  logLevel: info
-  env: {}
+
+image:
+  repository: ghcr.io/games-on-whales/sunshine
+  tag: 1.0.0
+  pullPolicy: IfNotPresent
 xorg:
   image:
     repository: ghcr.io/games-on-whales/xorg
