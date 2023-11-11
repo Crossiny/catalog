@@ -33,6 +33,38 @@
                 "https://github.com/wolveix/satisfactory-server"
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/satisfactory.png"
+        },
+        "games-on-whales": {
+            "app_readme": "<p>Games on Whales (GOW) lets you stream games</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/satisfactory\">https://truecharts.org/charts/stable/satisfactory</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "games"
+            ],
+            "description": "Games on Whales (GOW) lets you stream games",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/satisfactory",
+            "location": "/home/runner/work/catalog/catalog/stable/games-on-whales",
+            "latest_version": "1.0.0",
+            "latest_app_version": "1.5.5",
+            "latest_human_version": "1.5.5_6.0.11",
+            "last_update": "2023-11-08 17:26:25",
+            "name": "games-on-whales",
+            "recommended": false,
+            "title": "games-on-whales",
+            "maintainers": [
+                {
+                    "email": "info@truecharts.org",
+                    "name": "TrueCharts",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/truecharts/charts/tree/master/charts/stable/satisfactory",
+                "https://github.com/wolveix/satisfactory-server"
+            ],
+            "icon_url": "https://raw.githubusercontent.com/angelnu/helm-charts/gh-pages/icons/gow-logo.png"
         }
     }
 }
